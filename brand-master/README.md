@@ -7,10 +7,10 @@ The official brand assets for any integrations, promotional or marketing materia
 ### wakehacker 
 | Type - Color           | Download Location | 
 | --------------- | --------------------------------- |
-| PNG - White| <img src="logo/ackee/png/AckeeLogoWhite.png" alt="logo" height="50"/> |
-| PNG - Black | <img src="logo/ackee/png/AckeeLogoBlack.png" alt="logo" height="50"/> |
-| SVG - White | <img src="logo/ackee/svg/AckeeLogoWhite.svg" alt="logo" height="50"/> |
-| SVG - Black | <img src="logo/ackee/svg/AckeeLogoBlack.svg" alt="logo" height="50"/> |
+| PNG - With Background| <img src="logo/wakehacker/png/wakehacker-logo-square.png" alt="logo" height="50"/> |
+| PNG - Without Background | <img src="logo/wakehacker/png/wakehacker-without-background.png" alt="logo" height="50"/> |
+| SVG - With Background | <img src="logo/ackee/svg/wakehacker-with-background.svg" alt="logo" height="50"/> |
+| SVG - Without Background | <img src="logo/wakehacker/svg/wakehacker.svg" alt="logo" height="50"/> |
 
 ### Ackee Blockchain Security
 | Type - Color           | Download Location | 
