@@ -1,16 +1,16 @@
-# Ackee Blockchain Security Brand Assets
+# Wakehacker Brand Assets
 
 The official brand assets for any integrations, promotional or marketing materials.
 
-## Press & Photos
-We are happy to support press features and interviews highlighting Ackee Blockchain Security and its leadership. You'll find a collection of high-resolution photos of our CEO, Josef Gattermayer, Ph.D., available for use in editorial content [here](https://github.com/Ackee-Blockchain/brand/blob/master/photo/photo.md).
-
-## Guidelines
-Please review our [Brand Guidelines](https://github.com/Ackee-Blockchain/brand/blob/master/Ackee%20Blockchain%20Security%20Brand%20Guidelines%20Version%202.0.pdf). 
-
-Don't combine the Ackee Blockchain Security name, logos, or any portion of any of them, with any other logo, company name, mark, or generic terms outside of pre-approved partnerships and collaborations. Please don't edit, modify, distort, rotate, or recolor the logo. 
-
 ## Company Logo
+
+### wakehacker 
+| Type - Color           | Download Location | 
+| --------------- | --------------------------------- |
+| PNG - White| <img src="logo/ackee/png/AckeeLogoWhite.png" alt="logo" height="50"/> |
+| PNG - Black | <img src="logo/ackee/png/AckeeLogoBlack.png" alt="logo" height="50"/> |
+| SVG - White | <img src="logo/ackee/svg/AckeeLogoWhite.svg" alt="logo" height="50"/> |
+| SVG - Black | <img src="logo/ackee/svg/AckeeLogoBlack.svg" alt="logo" height="50"/> |
 
 ### Ackee Blockchain Security
 | Type - Color           | Download Location | 
@@ -20,7 +20,7 @@ Don't combine the Ackee Blockchain Security name, logos, or any portion of any o
 | SVG - White | <img src="logo/ackee/svg/AckeeLogoWhite.svg" alt="logo" height="50"/> |
 | SVG - Black | <img src="logo/ackee/svg/AckeeLogoBlack.svg" alt="logo" height="50"/> |
 
-## Tooling Logos
+## What Powers wakehacker
 
 ### Wake
 | Type - Color           | Download Location | 
@@ -31,23 +31,9 @@ Don't combine the Ackee Blockchain Security name, logos, or any portion of any o
 | SVG - Black | <img src="logo/wake/svg/WakeLogoBlack.svg" alt="logo" height="50"/> |
 
 
-### Trident
-| Type - Color           | Download Location | 
-| --------------- | --------------------------------- |
-| PNG - White | <img src="logo/trident/png/TridentLogoWhite.png" alt="logo" height="50"/> |
-| PNG - Black | <img src="logo/trident/png/TridentLogoBlack.png" alt="logo" height="50"/> |
-| SVG - White | <img src="logo/trident/svg/TridentLogoWhite.svg" alt="logo" height="50"/> |
-| SVG - Black | <img src="logo/trident/svg/TridentLogoBlack.svg" alt="logo" height="50"/> |
-
-### Solidity (Wake)
-| Type - Color           | Download Location | 
-| --------------- | --------------------------------- |
-| PNG - Color | <img src="logo/solidity/png/SolidityWakeLogo.png" alt="logo" height="50"/> |
-| SVG - Color | <img src="logo/solidity/svg/SolidityWakeLogo.svg" alt="logo" height="50"/> |
-
 ## Colors
 
-Ackee Blockchain Security's main color is a vibrant blue color on a dark color scheme. 
+Wakehackers's main color is a vibrant blue color on a dark color scheme. 
 | Color      | HEX                                                                                               | Notes              |
 | ---------- | ------------------------------------------------------------------------------------------------- | ------------------ |
 | Blue | `#0000FF` <img valign='middle' src='https://readme-swatches.vercel.app/0000FF?style=circle&b=0'/> | Primary color                   |
